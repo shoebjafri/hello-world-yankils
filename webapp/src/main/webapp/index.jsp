@@ -3,3 +3,5 @@
 <h2> Glad to see you here </h2>
 <h2> This is SJ's project. WOW </h2>
 <h1>Update on Goolgle VM on GCE using Google Compute Engine</h1>
+<h1> This is a cool class. I learned alottt </h1>
+Thank you!
